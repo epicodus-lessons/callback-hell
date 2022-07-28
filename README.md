@@ -16,7 +16,7 @@ In `src/without-callbacks.js`, you'll find the same code without callbacks. This
 You'll need an API key from [the OpenWeather API](https://openweathermap.org/api) to proceed. Once you have a key, create a `.env` file in the root directory of the project. Name this key `API_KEY`:
 
 ```
-API_KEY=oqi3hrfnof3232f
+API_KEY=[put-your-api-key-here]
 ```
 
 Then, install dependencies by running `npm install` in the root directory of the project.
