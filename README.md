@@ -13,6 +13,8 @@ In `src/without-callbacks.js`, you'll find the same code without callbacks. This
 
 ### Project Setup
 
+Clone this repo.
+
 You'll need an API key from [the OpenWeather API](https://openweathermap.org/api) to proceed. Once you have a key, create a `.env` file in the root directory of the project. Name this key `API_KEY`:
 
 ```
